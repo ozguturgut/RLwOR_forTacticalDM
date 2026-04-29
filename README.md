@@ -1,4 +1,4 @@
-From https://doi.org/10.1007/s10479-026-07164-3
+From https://doi.org/10.1007/s10479-026-07164-3 [ "This paper presents two novel reinforcement learning (RL) architectures tailored for “online”, ie dynamic, and” offline”, ie tabular, decision support schemas. Uniqueness of the approaches stems from reliance on Operations Research (OR) methods as building-blocks, rather than data sets or actor-critique..."]
 
 "Maintest.py" has the control panel, i.e. "__main__" function.
 Default version of this file has all the algorithm calls  (including benchmarks); these lines are open (i.e.uncommented), and allows you call them in the existing order of "__main__". 
