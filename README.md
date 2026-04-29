@@ -1,3 +1,5 @@
+From https://doi.org/10.1007/s10479-026-07164-3
+
 "Maintest.py" has the control panel, i.e. "__main__" function.
 Default version of this file has all the algorithm calls  (including benchmarks); these lines are open (i.e.uncommented), and allows you call them in the existing order of "__main__". 
 If you want to read and compare existing output files w/out running the algorithms, open the summary reading lines which are under the "# Load" lines of each algorithm block; and comment out the rest until "RESULTS Baseline" part.
